@@ -1,0 +1,41 @@
+{
+  "id": "mod-cpp-modern",
+  "slug": "module-cpp-modern",
+  "title": "C++现代程序设计",
+  "subtitle": "面向C语言进阶和算法工程学习者",
+  "description": "面向C语言进阶系统编程和算法工程学习者的现代C++面向对象模板STL智能指针RAII移动语义多线程CMake与项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "C++",
+    "现代C++",
+    "STL",
+    "面向对象",
+    "模板",
+    "智能指针",
+    "多线程",
+    "CMake"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "⚙️",
+  "repoUrl": "https://github.com/openskill-galaxy/module-cpp-modern",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 132
+  }
+}
